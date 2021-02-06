@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HoldOn</string>
+    <string name="navigation_drawer_open">뭐지?</string>
+    <string name="navigation_drawer_close">뭐지2?</string>
 </resources>
